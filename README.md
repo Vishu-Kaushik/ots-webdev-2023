@@ -1,11 +1,9 @@
 # Event-Management-System
 
-Website Development Competition 2k19
+OTS Web Development Competition 2k19
 
-Names: Pawan Singh Bhadouria and Jay Sharma
+Names: Jay Sharma
 Department: ASET
-Course: BCA (2nd Year)
-
 
 ------------------------include------------------------------------------------------
 
